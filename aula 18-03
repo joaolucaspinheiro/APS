@@ -1,0 +1,38 @@
+Diario de aula 18/03
+
+Levantamento de dados: 
+Entender o que o cliente precisa
+Analise de requisitos:
+Ver tecnicamente o que é necessario 
+Modelagem de software:
+Projeta o sofware
+Codificaçao/implementação:
+Onde realmente é feito o software
+Teste: 
+Validação e verificação
+Implantação:
+Onde e entregue o software ao cliente
+Manutenção:
+Correção de bugs que possam aparecer, manutenção SQL etc
+
+Modelo:
+Define como o ciclo será realizado
+
+Cascata: Modelo onde se finaliza uma etapa para começar outra, problemas: Caso tenha um erro grave, é preciso voltar desde o começo do projeto
+Caso haja uma má comunicação
+Caso ele não precise mais, será perdido também
+
+Incremental:
+Define o produto minimo viavel, após definir é incrementado o software 
+
+Espiral:
+O cliente / representante participa constantemetne do projeto, ajudando a reduzir erros
+
+Metodologia agil
+Existe para resolver problemas dos modelos, fazendo de maneira iterativa(cliente sempre participando), incremental(pequenas entregas) constantes e significativas(o que o cliente precisa)
+Cliente e equipe de sofware, processo e o software
+Dar mais valor a interatividade ao cliente do que negociar contrato
+Dar valor ao individudo e a interação com a equipe, e não a ferramenta ou processo, ou seja, orientar e ensinar bem
+É melhor estar aberto a mudanças do que executar um plano
+Deixar o software funcional do que fazer o documento extenso e detalhado
+
