@@ -21,18 +21,22 @@ Define como o ciclo será realizado
 Cascata: Modelo onde se finaliza uma etapa para começar outra, problemas: Caso tenha um erro grave, é preciso voltar desde o começo do projeto
 Caso haja uma má comunicação
 Caso ele não precise mais, será perdido também
+Maior problema é uma única entrega
 
 Incremental:
 Define o produto minimo viavel, após definir é incrementado o software 
+Como são mini entregas, sabe onde errou reduzindo o custo
+Ainda continua com poucas interações 
 
 Espiral:
-O cliente / representante participa constantemetne do projeto, ajudando a reduzir erros
+O cliente / representante participa constantemente do projeto, ajudando a reduzir erros
+Cliente não sabe o que quer, profissionais muito tecnicos que também não conseguem entender
 
 Metodologia agil
 Existe para resolver problemas dos modelos, fazendo de maneira iterativa(cliente sempre participando), incremental(pequenas entregas) constantes e significativas(o que o cliente precisa)
-Cliente e equipe de sofware, processo e o software
-Dar mais valor a interatividade ao cliente do que negociar contrato
-Dar valor ao individudo e a interação com a equipe, e não a ferramenta ou processo, ou seja, orientar e ensinar bem
-É melhor estar aberto a mudanças do que executar um plano
-Deixar o software funcional do que fazer o documento extenso e detalhado
+1. Individuos e interações mais que processos e ferramentas
+2. Software funcional mais que uma documentação abrangente
+3. Colaboração com o cliente mais que negociação contratual
+4. Responder a mudanças mais que seguir um plano fixo
+
 
