@@ -1,3 +1,55 @@
 Aula do dia 25 de março de 2025
+DEV
 
 Levatando de requisitos:
+É importante, pois se errar, irá errar em todo o desenvolvimento ponto importantes
+Conhecer certo: Entender bem o que o cliente quer, erros: 
+-Erro de comunicação, por parte de ambos
+-Interpretação, cada pessoa interpreta de uma maneira
+-Cliente tem falta de conhecimento / o dominio de negocio ser díficil e o analista não conseguir entender
+Analisar certo:
+-Erro técnico, saber descrever
+Descrever certo:
+-Erros de descrição e interpretação
+Por esse motivo estudamos padrões e técnicas para minimizar erros
+
+Técnicas de levantamentos:
+-Pesquia de mercado: Saber com o que você vai lidar
+-Entrevista: Primeiro contato com o cliente, como uma conversa, direcionando para onde encontra mais problemas
+-Etnografia: Dominio da empresa, vivencia o que precisa ser feito, normalmente indo a empresa para viver o problema
+-Observação: subtipo limitado do etnografia, por exemplo, por segurança ou alguma coisa, você observa de maneira mais distante(etnografia preferivel, mas depende das limitações)
+-Questionário: Como uma entrevista, porém é estático, limitando a comunicação, bom quando o cliente não tem disponibilidade, ou divergencias, ou quando há um grupo grande de pessoas
+
+Workshop:
+-Quando não há ideia do que precisa ser feito, usado para criar um modelo para gerar uma solução
+
+Joint Aplication Design:
+-Quando não há ideia de como ser feito, usado para viabilizar a solução
+
+Prototipação: usado para valida uma ideia
+-Cria um prototipo, conceitual ou prático:
+-Prático, cria um modelo simples
+-Conceitual, cria um conceito não usável apenas para mostrar como ficará
+
+Analise documental:
+Forma de validação a partir de todos os documentos da empresa, para ajudar a definir o que precisa ser feito
+-Pegar por exemplo cadastros manuais de clientes para saber como seria feito via software, relátorios 
+
+Necesário tomar cuidado com:
+-Permissões
+-Comunicação
+-Viés
+-interpretação
+-Usar mais de uma técnica
+
+Primeiro modelo foi o cascata, e acabando sendo ultrapassado pelo incremental, pois como o modelo cascata possuia apenas uma entrega, que ocasionava diversos problemas, tais como o 
+cliente não precisar mais do projeto da maneira que foi feito, ou perceber um erro muito tarde e gerar muito custo ao projeto.Após isso veio o modelo Incremental, que surgiu para 
+ajudar nessa entrega única, ou seja, encontrou entregas constatantes, porém barrou em ainda sim ter poucas interrações dificultando o entendimento. Logo surge o espiral, que tem o cliente
+em todo o desenvolvimento, ajudando na interação, porém como o cliente poderia nao entender o que quer, e o time não interpretar ainda sim havia muitos erros.
+Por isso surge a metodologia agil com 4 pontos que revisam a maneira de desenvolver:
+1. Individuos e interações mais que processos e ferramentas
+2. Software funcional mais que uma documentação abrangente
+3. Colaboração com o cliente mais que negociação contratual
+4. Responder a mudanças mais que seguir um plano fixo
+
+
