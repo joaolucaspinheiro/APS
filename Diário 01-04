@@ -1,0 +1,44 @@
+um grupo de alunos precisam de material X, para lazer ou para um fim didático necessitam de empréstimos 
+orientações via fichários, para controlar o desgastes dos bens do institutos engloba todos os matérias da sala ,não há limitação para pegar material 
+Para livros didáticos existe um laudo para validar a integridade assinado via gov
+maiores dificuldades:
+não devolviam e acabam ficando sem materiais 
+
+fichário contem:
+item / Material, seja ele consumível ou durável
+Identificação de quem empresta 
+Identificação do aluno quanto aluno/professor/servidor/outra autorizado:
+Caso seja professor, necessita da turma
+caso Aluno, necessita de serie e turma, junto a horário de retirada para todos
+
+
+sistema de achados e perdidos:
+Objetos são encaminhaos aos assistentes de aluno com dia, horário , e onde foi encontrado
+Para retiradas, os alunos devem identificar o objetos, assinar pela retirada do mesmo, e junto a assinatura fica a data
+
+
+Analise de mercado (Sistema da biblioteca)
+Resumo - Pesquisa de Mercado APS
+
+Equipe: 5 pessoas, turnos manhã/tarde/noite (2 períodos).
+
+Sistema: Software da PUC para bibliotecas federais.
+
+Acervo: ~60 mil livros no Campus Paranavaí.
+
+Classificação: Exemplar e acervo com subclasses, códigos numéricos e letras-chave (livro/autor).
+
+Cadastro: Catalogação feita por bibliotecárias antes da inserção no sistema.
+
+Código de Barras: Gerado automaticamente e único por livro.
+
+Leitores: Adquiridos por licitação/dispensa, com restrições.
+
+Normativas: Itens perdidos têm tempo X para novo empréstimo.
+
+Cadastro de Usuário: RA ou número gerado, nome, contato e endereço.
+
+Empréstimo: Máximo de 14 dias; atraso resulta em suspensão equivalente.
+
+Controle: Análise de fluxo, tempo de empréstimo e diferenciação de materiais (pesos, regras).
+
