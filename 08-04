@@ -1,0 +1,32 @@
+Todo requisito para ter qualidade ele precisa ser rastreavél, claro e foco no que é necessário
+Como é complexo e grande, o requisto é decomposto e é feito o refinamento incremental
+Organizado em estrtura de fases
+1 Rastreabilidade: Onde é definido a indetificação, L R P e uma sequencia numerica L= LEVANTAMENTO  R= REQUISITO  P = PRINCIPAL. O que o software tem que fazer
+LRE Levantamento de requisitos Epescifico 
+
+2 Indetificação do requisito principal ex,
+LRP001 Realizar a gestão de emprestismo de máteriais
+
+3 Especificação
+é a decomposição de um requisito principal, ex:
+LRP001 realizar a gestão de reserva de quadras esportiva de beach tenis e futebol
+ -LRE001 realizar a gestão de reserva de quadras de beach tenis
+ -LRE002 Realizar a gestão de reserva de futebol
+
+4 Identificação dos atores
+Classifica todas pessoas que vão utilizar o software
+LRE001 Permitir que o cliente reserve a quadra de futebol
+LRE002 Permitir que o aadministrador faça a gestão da quadra de futebol
+
+5 complementação funcional
+ Complementa o requisitos não identificados / não definidos
+ LRE001 Gerar comprovante de reserva
+
+6 Funcionalidade fora do escopo inicial
+ Funcionalidade que não tem haver com o projeto indo para outro lado
+LRE001 gestão de RH
+
+7 Validação e verificação
+Onde é validadado se as informações estão corretas e se irão funcionar
+
+
