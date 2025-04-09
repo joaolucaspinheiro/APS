@@ -29,4 +29,28 @@ LRE001 gestão de RH
 7 Validação e verificação
 Onde é validadado se as informações estão corretas e se irão funcionar
 
+Requisistos formato simples usando paddrão como exemplo:   ID, descrição prioridade, origem, critérios de aceitação
+Fase  02 Identificação de cadastros / Entidade 
+cadastros é todos os dados do sistema
+Entidade é a representação de um objeto, uma classe
+
+3 Indentificar as dependencias e correlações
+Uma reserva depende de um cliente
+Uma reserva depende de uma quadra
+
+4 Campos e caracteristicas
+Cliente precisa de nome (obrigatorio), CPF (obrigatorio), telefone
+Quadra Identificação tipo(obrigatorio), locação(obrigatorio)
+
+5 regra de negocio
+Tudo que faz o funcionar, com ou sem software, como por exemplo gerar um desconto, uma quadra ter apenas 1 reserva por hora
+CPF unico e validado no sistema
+
+6 Requisitos não funcionais exemplo
+Não é obrigatorio 
+Desempenho: Limitar tempo a 1s para confirmar a reserva da quadra
+
+7 Formatação
+Deixar no padrão para melhor legibilidade
+Segurança: Não mostrar o CPF do cliente no sistema
 
