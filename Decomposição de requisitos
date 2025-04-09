@@ -1,0 +1,34 @@
+ID	    Descrição	Prioridade	Origem	Critérios de Aceitação
+REQ001  Funcionalidade de login usando RA/SEI, ALTA, Stakeholder, Usuários farão login utilizando seu RA(Para alunos) SEI(Para servidores) junto a senha utilizada no SUAP/SEI 
+REQ002  Realizar a gestão de matérias emprestados aos membros do campus, ALTA, Stakeholder, O administrador terá acesso a um sistema de controle de estoque onde poderá realizar emprestimos para membros do campus
+
+
+
+LRP001 Realizar a gestão de matériais duraveis fornecido pelo campus
+ -LRP001  realizar a gestão itens dentro do sistema
+  -LRP002 realizar o cadastro dos itens
+LRP002 Realizar a gestão de matériais consumíveis fornecido pelo campus
+ -LRP001  realizar a gestão itens dentro do sistema
+  -LRP002 realizar o cadastro dos itens
+LRP002 Permitir a visualização dos itens disponiveis para emprestimo / coleta
+
+Identificação de atores:
+ LRE001 Permitir que os usuários vejam a disponibilidades dos itens no campus
+ LRE002 permitir que o administrador realize busca detalhada dos itens
+  -LRE001 Detalhamento feito por data/hora , RA / SEI do ator, e objeto retirado 
+LRE003 Permitir que o administrador realize cadastro de novos itens
+LRE004 Identificar bens duráveis(aqueles que fazem  parte do pátrimonios da instituição) Consumíveis(Bens que são modificados / consumidos durante o uso) 
+
+Complementação Funcional:
+LRP001 Realizar a gestão de matériais duraveis fornecido pelo campus
+  -LRE005 Definir prazo para devolução de um bem durável 
+  -LRE006 Definir estoque máximo e atual dos itens disponiveis para emprestimos 
+  -LRE007 Definir prazo para retorno do material 
+  -LRE008 Emitir alerta quando o prazo de devolução for expirado
+LRP002 Realizar a gestão de matériais consumíveis fornecido pelo campus
+  - LRE009 Definir estoque atual de um bem consumivél
+LRE010 Anexar informações sobre a disponibilização
+  - LRE011 Incluir nome, RA/SEI do solicitante e administrador
+  - LRE012 Incluir informações sobre horário e data da operação
+ 
+
