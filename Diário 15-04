@@ -1,0 +1,14 @@
+<h1> Problema </h1>
+
+um grupo de alunos precisam de material X, para lazer ou para um fim didático necessitam de empréstimos 
+orientações via fichários, para controlar o desgastes dos bens do institutos engloba todos os matérias da sala ,não há limitação para pegar material 
+Para livros didáticos existe um laudo para validar a integridade assinado via gov
+maiores dificuldades:
+não devolviam e acabam ficando sem materiais 
+
+fichário contem:
+item / Material, seja ele consumível ou durável
+Identificação de quem empresta 
+Identificação do aluno quanto aluno/professor/servidor/outra autorizado:
+Caso seja professor, necessita da turma
+caso Aluno, necessita de serie e turma, junto a horário de retirada para todos
