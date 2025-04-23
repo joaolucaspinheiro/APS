@@ -1,0 +1,13 @@
+UML tem como principio, ser visual e facil de entender, feito para unificar como é escrito
+
+tem 2 diagramas, estruturais e comportamentais
+
+Estrutural define toda a estrutura do sistema, como vai ser, onde vai ser, como o diagrama de classe é muito valioso para o programador
+
+Comportamentais, define os comportamento do sistema, menos tecnico e mais perto do usuário, é ótimo para validar os requisitos
+
+include é obrigatorio
+Extend opcional
+
+Como atores ficam os que tem funcionalidades diferentes, e equipamentos, funcionalidades
+Linha pontilhada é um relacionamento fraco
